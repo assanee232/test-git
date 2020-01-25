@@ -20,6 +20,7 @@ function App() {
           Learn Reactass
           ss
         </a>
+        <h3>foot</h3>
       </header>
     </div>
   );
