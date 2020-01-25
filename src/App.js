@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> hi
+          Edit <code>src/App.js</code> <h1>Assa</h1>
         </p>
         <a
           className="App-link"
@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Reactass
+          ss
         </a>
       </header>
     </div>
